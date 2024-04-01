@@ -2,12 +2,10 @@
 title: "Your service name"
 link: "https://link.to.service"
 thumbnail: "https://any.logo.of/service"
-snippet="Stand out as a solopreneur and build a personal brand"
-tags: ["Changelog","Public Profile","Build In Public"]
-createdAt: 2024-04-01T18:55:27+03:00
+snippet="Service description, which will be shown under service name"
+tags: ["Tag1","Tag2","TagN"]
+createdAt: 2021-06-21T18:55:27+03:00
 ---
-Free public profile
-Free changelog integration
-Free listing on categories ranking
-Free publishing of product updates
-Free backlink
+free feature 1
+free feature 2
+free feature 3
