@@ -7,7 +7,7 @@ tags: ["Changelog","Public Profile","Build In Public"]
 createdAt: 2024-04-01T18:55:27+03:00
 ---
 Free public profile
-Free changelog integration 
+Free changelog integration
 Free listing on categories ranking
 Free publishing of product updates
 Free backlink
